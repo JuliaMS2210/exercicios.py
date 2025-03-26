@@ -29,4 +29,3 @@ elif e == 'tesoura' and j == pa:
     print('Parabéns, eu escolhi papel e você ganhou!!!')
 elif e == 'tesoura' and j == te:
      print('Que coisa, eu escolhi tesoura e nós empatamos!!!')
-bool
